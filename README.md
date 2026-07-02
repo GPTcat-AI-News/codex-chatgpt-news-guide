@@ -88,5 +88,12 @@ ChatGPT 是聊天。Codex 是干活。
 
 ---
 
+## 长期更新版
+
+这篇内容后续会继续整理到网站教程中，方便统一查看：
+
+- ChatGPT 中文教程站：https://www.chinachatgpt.com/
+- 相关主题：ChatGPT 中文版、Codex、API 中转、AI 工具教程
+
 **按需求选入口：**普通使用（聊天/写作/代码）→ [ZEOGPT](https://www.zeogpt.com/register?ref=Ac3KbS3F) · 官方订阅协助充值 → [GPTBuy](https://gptbuys.com/?ref=LIJUN) · 开发者 API 调用 → [ZeoAPI](https://www.zeoapi.com/register?aff=FM4J)
 以上均为第三方服务，使用前建议确认平台主体和隐私政策。
