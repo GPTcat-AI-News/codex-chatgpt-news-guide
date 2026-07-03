@@ -4,6 +4,12 @@
 
 很多人把 Codex 和 ChatGPT 混为一谈。能聊天的是 ChatGPT，能跑代码任务的是 Codex。这篇把两者的区别讲清楚。
 
+## 文章列表
+
+- [2026-07-03｜98% 的 OpenAI 员工都在用 Codex——这份数据里藏着什么信号](posts/20260703-openai-codex-usage-signal.md)
+
+- [2026-07-02｜Codex 是什么？为什么它和普通 ChatGPT 对话不一样](README.md)
+
 > 🌟 **第三方体验入口（非 OpenAI 官方）：**
 >
 > • [ZEOGPT](https://www.zeogpt.com/register?ref=Ac3KbS3F) — 普通使用：聊天、写作、代码辅助、Codex 类体验
