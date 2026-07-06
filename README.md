@@ -6,6 +6,7 @@
 
 ## 文章列表
 
+- [2026-07-06 | 豆包千问元宝集体下架智能体，国内 AI 平台怎么了](posts/20260706-domestic-ai-agent-removal.md)
 - [2026-07-03｜98% 的 OpenAI 员工都在用 Codex——这份数据里藏着什么信号](posts/20260703-openai-codex-usage-signal.md)
 
 - [2026-07-02｜Codex 是什么？为什么它和普通 ChatGPT 对话不一样](README.md)
