@@ -6,6 +6,7 @@
 
 ## 文章列表
 
+- [2026-07-08 | Claude 用户暴涨背后：底层模型正在变成水电煤](posts/20260708-claude-surge-model-commoditization.md)
 - [2026-07-07 | 扎克伯格承认 AI agent 进展不如预期——这对普通用户意味着什么](posts/20260707-zuckerberg-ai-agent-slower.md)
 - [2026-07-06 | 豆包千问元宝集体下架智能体，国内 AI 平台怎么了](posts/20260706-domestic-ai-agent-removal.md)
 - [2026-07-03｜98% 的 OpenAI 员工都在用 Codex——这份数据里藏着什么信号](posts/20260703-openai-codex-usage-signal.md)
